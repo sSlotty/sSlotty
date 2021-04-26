@@ -1,16 +1,13 @@
-### Hi there 👋
-### Gitlab ⚡ : https://gitlab.com/slotty.dev
-<!--
-**sSlotty/sSlotty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Thanathip 👋🏻
 
-Here are some ideas to get you started:
+##### Gitlab ⚔️ 👉🏻 [Gitlab](https://gitlab.com/slotty.dev)
+i'm statudy at Computer Science Faculy of Science at Srinakharinwitor University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### MY PROJECT 🌈
+- ##### fornt-end
+	- React : [Clinic](https://github.com/sSlotty/clinic-react) 🏥
+
+- ##### Backend 
+	- Flask-RestFul : [Clinic](https://github.com/sSlotty/clinic-api) 🏥 ,   [Resort](https://github.com/sSlotty/ResortAPI)🏘️
+
+
