@@ -2,7 +2,7 @@
 
 I'm studying in the major of Computer Science Faculy of Science Srinakharinwitor U.
 
-![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sSlotty&line_height=21&theme=dracula)
+![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sSlotty&line_height=21&theme=github_dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sSlotty&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sSlotty&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
