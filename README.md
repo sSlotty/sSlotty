@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Oat.class%20&fontSize=80&textBg=true&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=300&section=header&text=%20Slotty%20&fontSize=80&textBg=true&animation=fadeIn)
 
 ### Hi there, I'm Thanathip 👋🏻
 
