@@ -2,8 +2,10 @@
 
 ### Hi there, I'm Thanathip 👋🏻
 
-I'm studying in the major of Computer Science Faculy of Science Srinakharinwitor U.
-
+## About me
+- I'm Software Engineer at SCB Thailand
+- Interesting In Fullstack Developer
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sSlotty&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sSlotty&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
